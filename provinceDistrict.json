@@ -1,0 +1,1164 @@
+[
+    {
+        "name": "Koshi",
+        "districts": [
+            {
+                "name": "TAPLEJUNG",
+                "gapas": [
+                    "Phaktanlung Gaunpalika",
+                    "Mikwakhola Gaunpalika",
+                    "Meringden Gaunpalika",
+                    "Maiwakhola Gaunpalika",
+                    "Aatharai Tribeni Gaunpalika",
+                    "Phungling Municipality",
+                    "Pathivara Yangwarak Gaunpalika",
+                    "Sirijanga Gaunpalika",
+                    "Sidingba Gaunpalika"
+                ]
+            },
+            {
+                "name": "SANKHUWASABHA",
+                "gapas": [
+                    "Bhotkhola Gaunpalika",
+                    "Makalu Gaunpalika",
+                    "Silichong Gaunpalika",
+                    "Chichila Gaunpalika",
+                    "Sabhapokhari Gaunpalika",
+                    "Khandabari Municipality",
+                    "Panchakhapan Municipality",
+                    "Chainapur Municipality",
+                    "Madi Municipality",
+                    "Dharmadevi Municipality"
+                ]
+            },
+            {
+                "name": "SOLUKHUMBU",
+                "gapas": [
+                    "Khumbu Pasanglhamu Gaunpalika",
+                    "Mahakulung Gaunpalika",
+                    "Sotang Gaunpalika",
+                    "Mapya Dudhkoshi Gaunpalika",
+                    "Thulung Dudhkoshi Gaunpalika",
+                    "Necha Salyan Gaunpalika",
+                    "Solu Dhudhakunda Municipality",
+                    "Likhu Pike Gaunpalika"
+                ]
+            },
+            {
+                "name": "OKHALDHUNGA",
+                "gapas": [
+                    "Chishankhu Gadhi Gaunpalika",
+                    "Siddhicharan Municipality",
+                    "Molung Gaunpalika",
+                    "Khiji Demba Gaunpalika",
+                    "Likhu Gaunpalika",
+                    "Champadevi Gaunpalika",
+                    "Sunkoshi Gaunpalika",
+                    "Manebhanjyang Gaunpalika"
+                ]
+            },
+            {
+                "name": "KHOTANG",
+                "gapas": [
+                    "Kepilasgadhi Gaunpalika",
+                    "Aiselukharka Gaunpalika",
+                    "Rawa Besi Gaunpalika",
+                    "Halesi Tuwachung Municipality",
+                    "Diktel Rupakot Majhuwagadhi Municipality",
+                    "Sakela Gaunpalika",
+                    "Diprung Chuichumma Gaunpalika",
+                    "Khotehang Gaunpalika",
+                    "Jante Dhunga Gaunpalika",
+                    "Baraha Pokhari Gaunpalika"
+                ]
+            },
+            {
+                "name": "BHOJPUR",
+                "gapas": [
+                    "Shadananda Municipality",
+                    "Salpa Silichho Gaunpalika",
+                    "Temkemaiyum Gaunpalika",
+                    "Bhojpur Municipality",
+                    "Arun Gaunpalika",
+                    "Pauwa Dunma Gaunpalika",
+                    "Ramprasad Rai Gaunpalika",
+                    "Hatuwagadhi Gaunpalika",
+                    "Aamchowk Gaunpalika"
+                ]
+            },
+            {
+                "name": "DHANKUTA",
+                "gapas": [
+                    "Mahalaxmi Municipality",
+                    "Pakhribas Municipality",
+                    "Chhathar Jorpati Gaunpalika",
+                    "Dhankuta Municipality",
+                    "Shahidbhumi Gaunpalika",
+                    "Sangurigadhi Gaunpalika",
+                    "Chaubise Gaunpalika"
+                ]
+            },
+            {
+                "name": "TERHATHUM",
+                "gapas": [
+                    "Aatharai Gaunpalika",
+                    "Phedap Gaunpalika",
+                    "Menchhayayem Gaunpalika",
+                    "Myanglung Municipality",
+                    "Laligurans Municipality",
+                    "Chhathar Gaunpalika"
+                ]
+            },
+            {
+                "name": "PANCHTHAR",
+                "gapas": [
+                    "Yangbarak Gaunpalika",
+                    "Hilihan Gaunpalika",
+                    "Falelung Gaunpalika",
+                    "Phidim Municipality",
+                    "Falgunanda Gaunpalika",
+                    "Kummayak Gaunpalika",
+                    "Tumbewa Gaunpalika",
+                    "Miklajung Gaunpalika"
+                ]
+            },
+            {
+                "name": "ILAM",
+                "gapas": [
+                    "Mai Jogmai Gaunpalika",
+                    "Sandakpur Gaunpalika",
+                    "Illam Municipality",
+                    "Deumai Municipality",
+                    "Fakfokathum Gaunpalika",
+                    "Mangsebung Gaunpalika",
+                    "Chulachuli Gaunpalika",
+                    "Mai Municipality",
+                    "Suryodaya Municipality",
+                    "Rong Gaunpalika"
+                ]
+            },
+            {
+                "name": "JHAPA",
+                "gapas": [
+                    "Mechinagar Municipality",
+                    "Buddhashanti Gaunpalika",
+                    "Arjundhara Municipality",
+                    "Kankai Municipality",
+                    "Shivasatakshi Municipality",
+                    "Kamal Gaunpalika",
+                    "Damak Municipality",
+                    "Gauradaha Municipality",
+                    "Gauriganj Gaunpalika",
+                    "Jhapa Gaunpalika",
+                    "Barhadashi Gaunpalika",
+                    "Birtamod Municipality",
+                    "Haldibari Gaunpalika",
+                    "Bhadrapur Municipality",
+                    "Kachanakawal Gaunpalika"
+                ]
+            },
+            {
+                "name": "MORANG",
+                "gapas": [
+                    "Letang Municipality",
+                    "Kerabari Gaunpalika",
+                    "Sundarharaicha Municipality",
+                    "Belbari Municipality",
+                    "Kanepokhari Gaunpalika",
+                    "Pathari Shanishchare Municipality",
+                    "Urlabari Municipality",
+                    "Ratuwamai Municipality",
+                    "Sunwarshi Municipality",
+                    "Rangeli Municipality",
+                    "Gramthan Gaunpalika",
+                    "Budhiganga Gaunpalika",
+                    "Biratnagar Metropolitian City",
+                    "Katahari Gaunpalika",
+                    "Dhanapalthan Gaunpalika",
+                    "Jahada Gaunpalika"
+                ]
+            },
+            {
+                "name": "SUNSARI",
+                "gapas": [
+                    "Dharan Sub-Metropolitian City",
+                    "Barahachhetra Municipality",
+                    "Koshi Gaunpalika",
+                    "Bhokraha Narsingh Gaunpalika",
+                    "Ramdhuni Municipality",
+                    "Itahari Sub-Metropolitian City",
+                    "Duhabi Municipality",
+                    "Gadhi Gaunpalika",
+                    "Inaruwa Municipality",
+                    "Harinagar Gaunpalika",
+                    "Dewangunj Gaunpalika",
+                    "Barju Gaunpalika"
+                ]
+            },
+            {
+                "name": "UDAYAPUR",
+                "gapas": [
+                    "Belaka Municipality",
+                    "Chaudandigadhi Municipality",
+                    "Triyuga Municipality",
+                    "Rautamai Gaunpalika",
+                    "Limchunbung Gaunpalika",
+                    "Tapli Gaunpalika",
+                    "Katari Municipality",
+                    "Udayapurgadhi Gaunpalika"
+                ]
+            }
+        ],
+        "dist_start": 0
+    },
+    {
+        "name": "Madhesh",
+        "districts": [
+            {
+                "name": "SAPTARI",
+                "gapas": [
+                    "Saptakoshi Municipality",
+                    "Kanchanrup Municipality",
+                    "Agnisair Krishna Sabaran Gaunpalika",
+                    "Rupani Gaunpalika",
+                    "Shambhunath Municipality",
+                    "Khadak Municipality",
+                    "Surunga Municipality",
+                    "Balan-Bihul Gaunpalika",
+                    "Bode Barsain Municipality",
+                    "Dakneshwori Municipality",
+                    "Rajgadh Gaunpalika",
+                    "Bishnupur Gaunpalika",
+                    "Rajbiraj Municipality",
+                    "Mahadewa Gaunpalika",
+                    "Tirahut Gaunpalika",
+                    "Hanumannagar Kankalini Municipality",
+                    "Tilathi Koiladi Gaunpalika",
+                    "Chhinnamasta Gaunpalika"
+                ]
+            },
+            {
+                "name": "SIRAHA",
+                "gapas": [
+                    "Lahan Municipality",
+                    "Dhangadhimai Municipality",
+                    "Golbazar Municipality",
+                    "Mirchaiya Municipality",
+                    "Karjanha Municipality",
+                    "Kalyanpur Municipality",
+                    "Naraha Gaunpalika",
+                    "Arnama Gaunpalika",
+                    "Sukhipur Municipality",
+                    "Laxmipur Patari Gaunpalika",
+                    "Sakhuwa Nankarkatti Gaunpalika",
+                    "Bhagawanpur Gaunpalika",
+                    "Nawarajpur Gaunpalika",
+                    "Bariyarpatti Gaunpalika",
+                    "Aurahi Gaunpalika",
+                    "Siraha Municipality"
+                ]
+            },
+            {
+                "name": "DHANUSA",
+                "gapas": [
+                    "Ganeshman Charnath Municipality",
+                    "Dhanushadham Municipality",
+                    "Mithila Municipality",
+                    "Bateshwor Gaunpalika",
+                    "Chhireshwornath Municipality",
+                    "Laxminiya Gaunpalika",
+                    "Mithila Bihari Municipality",
+                    "Hansapur Municipality",
+                    "Sabaila Municipality",
+                    "Shahidnagar Municipality",
+                    "Kamala Municipality",
+                    "Janak Nandini Gaunpalika",
+                    "Bideha Municipality",
+                    "Janakpurdham Sub-Metropolitian City",
+                    "Dhanauji Gaunpalika",
+                    "Nagarain Municipality",
+                    "Mukhiyapatti Musaharmiya Gaunpalika"
+                ]
+            },
+            {
+                "name": "MAHOTTARI",
+                "gapas": [
+                    "Bardibas Municipality",
+                    "Gaushala Municipality",
+                    "Sonama Gaunpalika",
+                    "Aurahi Municipality",
+                    "Bhangaha Municipality",
+                    "Loharpatti Municipality",
+                    "Balawa Municipality",
+                    "Ram Gopalpur Municipality",
+                    "Samsi Gaunpalika",
+                    "Manara Shisawa Municipality",
+                    "Ekadara Gaunpalika",
+                    "Mahottari Gaunpalika",
+                    "Pipara Gaunpalika",
+                    "Matihani Municipality",
+                    "Jaleshwor Municipality"
+                ]
+            },
+            {
+                "name": "SARLAHI",
+                "gapas": [
+                    "Lalbandi Municipality",
+                    "Hariwan Municipality",
+                    "Bagmati Municipality",
+                    "Barahathawa Municipality",
+                    "Haripur Municipality",
+                    "Ishworpur Municipality",
+                    "Haripurwa Municipality",
+                    "Parsa Gaunpalika",
+                    "Brahmapuri Gaunpalika",
+                    "Chandranagar Gaunpalika",
+                    "Kabilashi Municipality",
+                    "Chakraghatta Gaunpalika",
+                    "Basbariya Gaunpalika",
+                    "Dhanakaul Gaunpalika",
+                    "Ramnagar Gaunpalika",
+                    "Balara Municipality",
+                    "Godaita Municipality",
+                    "Bishnu Gaunpalika",
+                    "Kaudena Gaunpalika",
+                    "Malangawa Municipality"
+                ]
+            },
+            {
+                "name": "RAUTAHAT",
+                "gapas": [
+                    "Chandrapur Municipality",
+                    "Gujara Municipality",
+                    "Phatuwa Bijayapur Municipality",
+                    "Katahariya Municipality",
+                    "Brindaban Municipality",
+                    "Gadhimai Municipality",
+                    "Madhav Narayan Municipality",
+                    "Garuda Municipality",
+                    "Dewahi Gonahi Municipality",
+                    "Maulapur Municipality",
+                    "Boudhimai Municipality",
+                    "Paroha Municipality",
+                    "Rajpur Municipality",
+                    "Yamunamai Gaunpalika",
+                    "Durga Bhagawati Gaunpalika",
+                    "Rajdevi Municipality",
+                    "Gaur Municipality",
+                    "Ishanath Municipality"
+                ]
+            },
+            {
+                "name": "BARA",
+                "gapas": [
+                    "Nijagadh Municipality",
+                    "Kolhabi Municipality",
+                    "Jitpur Simara Sub-Metropolitian City",
+                    "Parawanipur Gaunpalika",
+                    "Prasauni Gaunpalika",
+                    "Bishrampur Gaunpalika",
+                    "Pheta Gaunpalika",
+                    "Kalaiya Sub-Metropolitian City",
+                    "Karaiyamai Gaunpalika",
+                    "Baragadhi Gaunpalika",
+                    "Aadarsha Kotwal Gaunpalika",
+                    "Simroungadh Municipality",
+                    "Pacharauta Municipality",
+                    "Mahagadhimai Municipality",
+                    "Devtal Gaunpalika",
+                    "Subarna Gaunpalika"
+                ]
+            },
+            {
+                "name": "PARSA",
+                "gapas": [
+                    "Thori Gaunpalika",
+                    "Jirabhawani Gaunpalika",
+                    "Jagarnathpur Gaunpalika",
+                    "Paterwa Sugauli Gaunpalika",
+                    "Sakhuwa Prasauni Gaunpalika",
+                    "Parsagadhi Municipality",
+                    "Birgunj Metropolitian City",
+                    "Bahudarmai Municipality",
+                    "Pokhariya Municipality",
+                    "Kalikamai Gaunpalika",
+                    "Dhobini Gaunpalika",
+                    "Chhipaharmai Gaunpalika",
+                    "Pakaha Mainpur Gaunpalika",
+                    "Bindabasini Gaunpalika"
+                ]
+            }
+        ],
+        "dist_start": 14
+    },
+    {
+        "name": "Bagmati",
+        "districts": [
+            {
+                "name": "DOLAKHA",
+                "gapas": [
+                    "Gaurishankar Gaunpalika",
+                    "Bigu Gaunpalika",
+                    "Kalinchowk Gaunpalika",
+                    "Baiteshwor Gaunpalika",
+                    "Jiri Municipality",
+                    "Tamakoshi Gaunpalika",
+                    "Melung Gaunpalika",
+                    "Shailung Gaunpalika",
+                    "Bhimeshwor Municipality"
+                ]
+            },
+            {
+                "name": "SINDHUPALCHOK",
+                "gapas": [
+                    "Bhotekoshi Gaunpalika",
+                    "Jugal Gaunpalika",
+                    "Panchpokhari Thangpal Gaunpalika",
+                    "Helambu Gaunpalika",
+                    "Melanchi Municipality",
+                    "Indrawoti Gaunpalika",
+                    "Choutara Sangachowkgadhi Municipality",
+                    "Balephi Gaunpalika",
+                    "Bahrabise Municipality",
+                    "Tripurasundari Gaunpalika",
+                    "Lisankhu Pakhar Gaunpalika"
+                ]
+            },
+            {
+                "name": "RASUWA",
+                "gapas": [
+                    "Gosaikunda Gaunpalika",
+                    "Aamachhodingmo Gaunpalika",
+                    "Uttargaya Gaunpalika",
+                    "Kalika Gaunpalika",
+                    "Naukunda Gaunpalika"
+                ]
+            },
+            {
+                "name": "DHADING",
+                "gapas": [
+                    "Rubi Valley Gaunpalika",
+                    "Khaniyabas Gaunpalika",
+                    "Ganga Jamuna Gaunpalika",
+                    "Netrawati Dabjong Gaunpalika",
+                    "Nilkhantha Municipality",
+                    "Jwalamukhi Gaunpalika",
+                    "Siddhalek Gaunpalika",
+                    "Benighat Rorang Gaunpalika",
+                    "Gajuri Gaunpalika",
+                    "Galchhi Gaunpalika",
+                    "Thakre Gaunpalika",
+                    "Dhunibenshi Municipality"
+                ]
+            },
+            {
+                "name": "NUWAKOT",
+                "gapas": [
+                    "Dupcheshwor Gaunpalika",
+                    "Tadi Gaunpalika",
+                    "Suryagadhi Gaunpalika",
+                    "Bidur Municipality",
+                    "Kispang Gaunpalika",
+                    "Myagang Gaunpalika",
+                    "Tarakeshwor Gaunpalika",
+                    "Belkotgadhi Municipality",
+                    "Panchakanya Gaunpalika",
+                    "Shivapuri Gaunpalika",
+                    "Kakani Gaunpalika"
+                ]
+            },
+            {
+                "name": "KATHMANDU",
+                "gapas": [
+                    "Shankharapur Municipality",
+                    "Kageshwori Manahara Municipality",
+                    "Gokarneshwor Municipality",
+                    "Budhanilkhantha Municipality",
+                    "Tokha Municipality",
+                    "Tarakeshwor Municipality",
+                    "Nagarjun Municipality",
+                    "Kathmandu Metropolitian City",
+                    "Kirtipur Municipality",
+                    "Chandragiri Municipality",
+                    "Dakshinkali Municipality"
+                ]
+            },
+            {
+                "name": "BHAKTAPUR",
+                "gapas": [
+                    "Changunarayan Municipality",
+                    "Bhaktapur Municipality",
+                    "Madhyapur Thimi Municipality",
+                    "Suryabinayak Municipality"
+                ]
+            },
+            {
+                "name": "LALITPUR",
+                "gapas": [
+                    "Lalitpur Metropolitian City",
+                    "Godawari Municipality",
+                    "Konjyosom Gaunpalika",
+                    "Mahankal Gaunpalika",
+                    "Bagmati Gaunpalika"
+                ]
+            },
+            {
+                "name": "KAVREPALANCHOK",
+                "gapas": [
+                    "Chauri Deurali Gaunpalika",
+                    "Bhumlu Gaunpalika",
+                    "Mandan Deupur Municipality",
+                    "Banepa Municipality",
+                    "Dhulikhel Municipality",
+                    "Panchkhal Municipality",
+                    "Temal Gaunpalika",
+                    "Namobuddha Municipality",
+                    "Panauti Municipality",
+                    "Bethanchowk Gaunpalika",
+                    "Roshi Gaunpalika",
+                    "Mahabharat Gaunpalika",
+                    "Khanikhola Gaunpalika"
+                ]
+            },
+            {
+                "name": "RAMECHHAP",
+                "gapas": [
+                    "Umakunda Gaunpalika",
+                    "Gokulganga Gaunpalika",
+                    "Likhu Tamakoshi Gaunpalika",
+                    "Ramechhap Municipality",
+                    "Manthali Municipality",
+                    "Khandadevi Gaunpalika",
+                    "Doramba Gaunpalika",
+                    "Sunapati Gaunpalika"
+                ]
+            },
+            {
+                "name": "SINDHULI",
+                "gapas": [
+                    "Dudhouli Municipality",
+                    "Phikkal Gaunpalika",
+                    "Tinpatan Gaunpalika",
+                    "Golanjor Gaunpalika",
+                    "Kamalamai Municipality",
+                    "Ghyanglekha Gaunpalika",
+                    "Marin Gaunpalika",
+                    "Hariharpurgaghi Gaunpalika"
+                ]
+            },
+            {
+                "name": "MAKWANPUR",
+                "gapas": [
+                    "Indrasarowar Gaunpalika",
+                    "Thaha Municipality",
+                    "Kailash Gaunpalika",
+                    "Raksirang Gaunpalika",
+                    "Manahari Gaunpalika",
+                    "Hetauda Sub-Metropolitian City",
+                    "Bhimphedi Gaunpalika",
+                    "Makawanpurgadhi Gaunpalika",
+                    "Bakaiya Gaunpalika"
+                ]
+            },
+            {
+                "name": "CHITAWAN",
+                "gapas": [
+                    "Rapti Municipality",
+                    "Kalika Municipality",
+                    "Ichchha Kamana Gaunpalika",
+                    "Bharatpur Metropolitian City",
+                    "Ratnanagar Municipality",
+                    "Khairahani Municipality"
+                ]
+            }
+        ],
+        "dist_start": 22
+    },
+    {
+        "name": "Gandaki",
+        "districts": [
+            {
+                "name": "GORKHA",
+                "gapas": [
+                    "Chumanubri Gaunpalika",
+                    "Ajirkot Gaunpalika",
+                    "Barpak Sulikot Gaunpalika",
+                    "Dharche Gaunpalika",
+                    "Aarughat Gaunpalika",
+                    "Bhimsenthapa Gaunpalika",
+                    "Siranchowk Gaunpalika",
+                    "Palungtar Municipality",
+                    "Gorkha Municipality",
+                    "Shahid Lakhan Gaunpalika",
+                    "Gandaki Gaunpalika"
+                ]
+            },
+            {
+                "name": "MANANG",
+                "gapas": [
+                    "Narpa Bhumi Gaunpalika",
+                    "Manang Ngisyang Gaunpalika",
+                    "Chame Gaunpalika",
+                    "Nason Gaunpalika"
+                ]
+            },
+            {
+                "name": "MUSTANG",
+                "gapas": [
+                    "Lo Ghekar Damodarkunda Gaunpalika",
+                    "Gharpajhong Gaunpalika",
+                    "Varagung Muktichhetra Gaunpalika",
+                    "Lomanthang Gaunpalika",
+                    "Thasang Gaunpalika"
+                ]
+            },
+            {
+                "name": "MYAGDI",
+                "gapas": [
+                    "Annapurna Gaunpalika",
+                    "Raghuganga Gaunpalika",
+                    "Dhawalagiri Gaunpalika",
+                    "Malika Gaunpalika",
+                    "Mangala Gaunpalika",
+                    "Beni Municipality"
+                ]
+            },
+            {
+                "name": "KASKI",
+                "gapas": [
+                    "Madi Gaunpalika",
+                    "Machhapuchchhre Gaunpalika",
+                    "Pokhara Metropolitian City",
+                    "Rupa Gaunpalika"
+                ]
+            },
+            {
+                "name": "LAMJUNG",
+                "gapas": [
+                    "Dordi Gaunpalika",
+                    "Marshyangdi Gaunpalika",
+                    "Kwhola Sothar Gaunpalika",
+                    "Madhya Nepal Municipality",
+                    "Bensishahar Municipality",
+                    "Sundarbazar Municipality",
+                    "Rainas Municipality",
+                    "Dudhapokhari Gaunpalika"
+                ]
+            },
+            {
+                "name": "TANAHU",
+                "gapas": [
+                    "Bhanu Municipality",
+                    "Byas Municipality",
+                    "Myagde Gaunpalika",
+                    "Shuklagandaki Municipality",
+                    "Bhimad Municipality",
+                    "Ghiring Gaunpalika",
+                    "Rhishing Gaunpalika",
+                    "Devghat Gaunpalika",
+                    "Bandipur Gaunpalika",
+                    "Aanbu Khaireni Gaunpalika"
+                ]
+            },
+            {
+                "name": "NAWALPARASI_EAST",
+                "gapas": [
+                    "Gaidakot Municipality",
+                    "Bulingtar Gaunpalika",
+                    "Baudikali Gaunpalika",
+                    "Hupsekot Gaunpalika",
+                    "Devchuli Municipality",
+                    "Kawasoti Municipality",
+                    "Madhya Bindu Municipality",
+                    "Binayi Tribeni Gaunpalika"
+                ]
+            },
+            {
+                "name": "SYANGJA",
+                "gapas": [
+                    "Putalibazar Municipality",
+                    "Phedikhola Gaunpalika",
+                    "Aandhikhola Gaunpalika",
+                    "Arjun Choupari Gaunpalika",
+                    "Bhirkot Municipality",
+                    "Biruwa Gaunpalika",
+                    "Harinas Gaunpalika",
+                    "Chapakot Municipality",
+                    "Walling Municipality",
+                    "Galyang Municipality",
+                    "Kaligandaki Gaunpalika"
+                ]
+            },
+            {
+                "name": "PARBAT",
+                "gapas": [
+                    "Modi Gaunpalika",
+                    "Jaljala Gaunpalika",
+                    "Kushma Municipality",
+                    "Phalebas Municipality",
+                    "Mahashila Gaunpalika",
+                    "Bihadi Gaunpalika",
+                    "Paiyu Gaunpalika"
+                ]
+            },
+            {
+                "name": "BAGLUNG",
+                "gapas": [
+                    "Baglung Municipality",
+                    "Kathekhola Gaunpalika",
+                    "Tarakhola Gaunpalika",
+                    "Tamankhola Gaunpalika",
+                    "Dhorpatan Municipality",
+                    "Nisikhola Gaunpalika",
+                    "Badigad Gaunpalika",
+                    "Galkot Municipality",
+                    "Bareng Gaunpalika",
+                    "Jaimuni Municipality"
+                ]
+            }
+        ],
+        "dist_start": 35
+    },
+    {
+        "name": "Lumbini",
+        "districts": [
+            {
+                "name": "RUKUM_EAST",
+                "gapas": [
+                    "Putha Uttanganga Gaunpalika",
+                    "Sisne Gaunpalika",
+                    "Bhoome Gaunpalika"
+                ]
+            },
+            {
+                "name": "ROLPA",
+                "gapas": [
+                    "Sunchhahari Gaunpalika",
+                    "Thawang Gaunpalika",
+                    "Pariwartan Gaunpalika",
+                    "Gangadev Gaunpalika",
+                    "Tribeni Gaunpalika",
+                    "Rolpa Municipality",
+                    "Runtigadhi Gaunpalika",
+                    "Sunil Smriti Gaunpalika",
+                    "Lungri Gaunpalika"
+                ]
+            },
+            {
+                "name": "PYUTHAN",
+                "gapas": [
+                    "Gaumukhi Gaunpalika",
+                    "Naubahini Gaunpalika",
+                    "Jhimaruk Gaunpalika",
+                    "Pyuthan Municipality",
+                    "Sworgadwari Municipality",
+                    "Mandavi Gaunpalika",
+                    "Mallarani Gaunpalika",
+                    "Aairawati Gaunpalika",
+                    "Sarumarani Gaunpalika"
+                ]
+            },
+            {
+                "name": "GULMI",
+                "gapas": [
+                    "Kali Gandaki Gaunpalika",
+                    "Satyawoti Gaunpalika",
+                    "Chandrakot Gaunpalika",
+                    "Musikot Municipality",
+                    "Isma Gaunpalika",
+                    "Madane Gaunpalika",
+                    "Dhurkot Gaunpalika",
+                    "Resunga Municipality",
+                    "Gulmi Durbar Gaunpalika",
+                    "Chhatrakot Gaunpalika",
+                    "Ruruchhetra Gaunpalika"
+                ]
+            },
+            {
+                "name": "ARGHAKHANCHI",
+                "gapas": [
+                    "Chhatradev Gaunpalika",
+                    "Malarani Gaunpalika",
+                    "Bhumikasthan Municipality",
+                    "Sandhikharka Municipality",
+                    "Panini Gaunpalika",
+                    "Shitaganga Municipality"
+                ]
+            },
+            {
+                "name": "PALPA",
+                "gapas": [
+                    "Rampur Municipality",
+                    "Purbakhola Gaunpalika",
+                    "Rambha Gaunpalika",
+                    "Baganaskali Gaunpalika",
+                    "Tansen Municipality",
+                    "Ribdikot Gaunpalika",
+                    "Rainadevi Chhahara Gaunpalika",
+                    "Tinau Gaunpalika",
+                    "Mathagadhi Gaunpalika",
+                    "Nisdi Gaunpalika"
+                ]
+            },
+            {
+                "name": "NAWALPARASI_WEST",
+                "gapas": [
+                    "Bardaghat Municipality",
+                    "Sunawal Municipality",
+                    "Ramgram Municipality",
+                    "Palhinandan Gaunpalika",
+                    "Sarawal Gaunpalika",
+                    "Pratapapur Gaunpalika",
+                    "Susta Gaunpalika"
+                ]
+            },
+            {
+                "name": "RUPANDEHI",
+                "gapas": [
+                    "Devdaha Municipality",
+                    "Butwal Sub-Metropolitian City",
+                    "Sainamaina Municipality",
+                    "Kanchan Gaunpalika",
+                    "Gaidahawa Gaunpalika",
+                    "Suddhodhan Gaunpalika",
+                    "Siyari Gaunpalika",
+                    "Tilottama Municipality",
+                    "Om Satiya Gaunpalika",
+                    "Rohini Gaunpalika",
+                    "Siddharthanagar Municipality",
+                    "Mayadevi Gaunpalika",
+                    "Lumbini Sanskritik Municipality",
+                    "Kotahimai Gaunpalika",
+                    "Sammarimai Gaunpalika",
+                    "Marchawari Gaunpalika"
+                ]
+            },
+            {
+                "name": "KAPILBASTU",
+                "gapas": [
+                    "Banganga Municipality",
+                    "Buddhabhumi Municipality",
+                    "Shivaraj Municipality",
+                    "Bijayanagar Gaunpalika",
+                    "Krishnanagar Municipality",
+                    "Maharajganj Municipality",
+                    "Kapilbastu Municipality",
+                    "Yasodhara Gaunpalika",
+                    "Shuddhodhan Gaunpalika"
+                ]
+            },
+            {
+                "name": "DANG",
+                "gapas": [
+                    "Bangalachuli Gaunpalika",
+                    "Ghorahi Sub-Metropolitian City",
+                    "Tulsipur Sub-Metropolitian City",
+                    "Shantinagar Gaunpalika",
+                    "Babai Gaunpalika",
+                    "Dangisharan Gaunpalika",
+                    "Lamahi Municipality",
+                    "Rapti Gaunpalika",
+                    "Gadhawa Gaunpalika",
+                    "Rajpur Gaunpalika"
+                ]
+            },
+            {
+                "name": "BANKE",
+                "gapas": [
+                    "Rapti Sonari Gaunpalika",
+                    "Kohalpur Municipality",
+                    "Baijanath Gaunpalika",
+                    "Khajura Gaunpalika",
+                    "Janaki Gaunpalika",
+                    "Nepalganj Sub-Metropolitian City",
+                    "Duduwa Gaunpalika",
+                    "Narainapur Gaunpalika"
+                ]
+            },
+            {
+                "name": "BARDIYA",
+                "gapas": [
+                    "Bansgadhi Municipality",
+                    "Barbardiya Municipality",
+                    "Thakurbaba Municipality",
+                    "Geruwa Gaunpalika",
+                    "Rajapur Municipality",
+                    "Madhuwan Municipality",
+                    "Gulariya Municipality",
+                    "Badhaiyatal Gaunpalika"
+                ]
+            }
+        ],
+        "dist_start": 46
+    },
+    {
+        "name": "Karnali",
+        "districts": [
+            {
+                "name": "DOLPA",
+                "gapas": [
+                    "Dolpo Buddha Gaunpalika",
+                    "Shey Phoksundo Gaunpalika",
+                    "Jagadulla Gaunpalika",
+                    "Mudkechula Gaunpalika",
+                    "Tripurasundari Municipality",
+                    "Thulibheri Municipality",
+                    "Kaike Gaunpalika",
+                    "Chharka Tangsong Gaunpalika"
+                ]
+            },
+            {
+                "name": "MUGU",
+                "gapas": [
+                    "Mugumakarmarog Gaunpalika",
+                    "Chhayanath Rara Municipality",
+                    "Soru Gaunpalika",
+                    "Khatyad Gaunpalika"
+                ]
+            },
+            {
+                "name": "HUMLA",
+                "gapas": [
+                    "Chankheli Gaunpalika",
+                    "Kharpunath Gaunpalika",
+                    "Simkot Gaunpalika",
+                    "Namkha Gaunpalika",
+                    "Sarkegad Gaunpalika",
+                    "Adanchuli Gaunpalika",
+                    "Tanjakot Gaunpalika"
+                ]
+            },
+            {
+                "name": "JUMLA",
+                "gapas": [
+                    "Patarasi Gaunpalika",
+                    "Kanaka Sundari Gaunpalika",
+                    "Sinja Gaunpalika",
+                    "Chandannath Municipality",
+                    "Guthichaur Gaunpalika",
+                    "Tatopani Gaunpalika",
+                    "Tila Gaunpalika",
+                    "Hima Gaunpalika"
+                ]
+            },
+            {
+                "name": "KALIKOT",
+                "gapas": [
+                    "Palata Gaunpalika",
+                    "Pachal Jharana Gaunpalika",
+                    "Raskot Municipality",
+                    "Sanni Tribeni Gaunpalika",
+                    "Naraharinath Gaunpalika",
+                    "Khandachakra Municipality",
+                    "Tilagupha Municipality",
+                    "Mahawai Gaunpalika",
+                    "Shuva Kalika Gaunpalika"
+                ]
+            },
+            {
+                "name": "DAILEKH",
+                "gapas": [
+                    "Naumule Gaunpalika",
+                    "Mahabu Gaunpalika",
+                    "Bhairabi Gaunpalika",
+                    "Thantikandh Gaunpalika",
+                    "Aathbis Municipality",
+                    "Chamunda Bindrasaini Municipality",
+                    "Dullu Municipality",
+                    "Narayan Municipality",
+                    "Bhagawatimai Gaunpalika",
+                    "Dungeshwor Gaunpalika",
+                    "Gurans Gaunpalika"
+                ]
+            },
+            {
+                "name": "JAJARKOT",
+                "gapas": [
+                    "Barekot Gaunpalika",
+                    "Kuse Gaunpalika",
+                    "Junichande Gaunpalika",
+                    "Chhedagad Municipality",
+                    "Shivalaya Gaunpalika",
+                    "Bheri Malika Municipality",
+                    "Nalgad Municipality"
+                ]
+            },
+            {
+                "name": "RUKUM_WEST",
+                "gapas": [
+                    "Aathabisakot Municipality",
+                    "Sanibheri Gaunpalika",
+                    "Banphikot Gaunpalika",
+                    "Chaurjahari Municipality"
+                ]
+            },
+            {
+                "name": "SALYAN",
+                "gapas": [
+                    "Darma Gaunpalika",
+                    "Kumakh Gaunpalika",
+                    "Banagad Kupinde Municipality",
+                    "Siddha Kumakh Gaunpalika",
+                    "Bagachour Municipality",
+                    "Chhatreshwori Gaunpalika",
+                    "Sharada Municipality",
+                    "Kalimati Gaunpalika",
+                    "Kapurkot Gaunpalika"
+                ]
+            },
+            {
+                "name": "SURKHET",
+                "gapas": [
+                    "Simta Gaunpalika",
+                    "Chingad Gaunpalika",
+                    "Lekabeshi Municipality",
+                    "lekabeshi Municipality",
+                    "Gurbhakot Municipality",
+                    "Bheriganga Municipality",
+                    "Birendranagar Municipality",
+                    "Barahatal Gaunpalika",
+                    "Panchapuri Municipality",
+                    "Chaukune Gaunpalika"
+                ]
+            }
+        ],
+        "dist_start": 58
+    },
+    {
+        "name": "Sudurpaschim",
+        "districts": [
+            {
+                "name": "BAJURA",
+                "gapas": [
+                    "Himali Gaunpalika",
+                    "Gaumul Gaunpalika",
+                    "Budhinanda Municipality",
+                    "Swamikartik Khapar Gaunpalika",
+                    "Jagannath Gaunpalika",
+                    "Badimalika Municipality",
+                    "Khaptad Chhededaha Gaunpalika",
+                    "Budhiganga Municipality",
+                    "Tribeni Municipality"
+                ]
+            },
+            {
+                "name": "BAJHANG",
+                "gapas": [
+                    "Saipal Gaunpalika",
+                    "Bungal Municipality",
+                    "Surma Gaunpalika",
+                    "Talkot Gaunpalika",
+                    "Masta Gaunpalika",
+                    "Jayaprithbi Municipality",
+                    "Chhabis Pathibhara Gaunpalika",
+                    "Durgathali Gaunpalika",
+                    "Kedarsyun Gaunpalika",
+                    "Bitthadchir Gaunpalika",
+                    "Thalara Gaunpalika",
+                    "Khaptad Chhanna Gaunpalika"
+                ]
+            },
+            {
+                "name": "DARCHULA",
+                "gapas": [
+                    "Byas Gaunpalika",
+                    "Duhun Gaunpalika",
+                    "Mahakali Municipality",
+                    "Naugad Gaunpalika",
+                    "Apihimal Gaunpalika",
+                    "Marma Gaunpalika",
+                    "Shailyashikhar Municipality",
+                    "Malikarjun Gaunpalika",
+                    "Lekam Gaunpalika"
+                ]
+            },
+            {
+                "name": "BAITADI",
+                "gapas": [
+                    "Dilasaini Gaunpalika",
+                    "Dogada Kedar Gaunpalika",
+                    "Puchaundi Municipality",
+                    "Surnaya Gaunpalika",
+                    "Dasharathchand Municipality",
+                    "Pancheshwor Gaunpalika",
+                    "Shivanath Gaunpalika",
+                    "Melauli Municipality",
+                    "Patan Municipality",
+                    "Sigas Gaunpalika"
+                ]
+            },
+            {
+                "name": "DADELDHURA",
+                "gapas": [
+                    "Nawadurga Gaunpalika",
+                    "Amargadhi Municipality",
+                    "Ajayameru Gaunpalika",
+                    "Bhageshwor Gaunpalika",
+                    "Parashuram Municipality",
+                    "Aalital Gaunpalika",
+                    "Ganyapdhura Gaunpalika"
+                ]
+            },
+            {
+                "name": "DOTI",
+                "gapas": [
+                    "Purbichouki Gaunpalika",
+                    "Sayal Gaunpalika",
+                    "Aadarsha Gaunpalika",
+                    "Shikhar Municipality",
+                    "Dipayal Silgadhi Municipality",
+                    "K.I. Singh Gaunpalika",
+                    "Bogatan Phudsil Gaunpalika",
+                    "Badi Kedar Gaunpalika",
+                    "Jorayal Gaunpalika"
+                ]
+            },
+            {
+                "name": "ACHHAM",
+                "gapas": [
+                    "Panchdebal Binayak Municipality",
+                    "Ramaroshan Gaunpalika",
+                    "Mellekh Gaunpalika",
+                    "Sanphebagar Municipality",
+                    "Chaurpati Gaunpalika",
+                    "Mangalsen Municipality",
+                    "Bannigadhi Jayagadh Gaunpalika",
+                    "Kamal bazar Municipality",
+                    "Dhakari Gaunpalika",
+                    "Turmakhand Gaunpalika"
+                ]
+            },
+            {
+                "name": "KAILALI",
+                "gapas": [
+                    "Mohanyal Gaunpalika",
+                    "Chure Gaunpalika",
+                    "Gauriganga Municipality",
+                    "Ghodaghodi Municipality",
+                    "Bardagoriya Gaunpalika",
+                    "Lamki Chuha Municipality",
+                    "Joshipur Gaunpalika",
+                    "Tikapur Municipality",
+                    "Bhajani Municipality",
+                    "Kailari Gaunpalika",
+                    "Dhangadhi Sub-Metropolitian City"
+                ]
+            },
+            {
+                "name": "KANCHANPUR",
+                "gapas": [
+                    "Krishnapur Municipality",
+                    "Shuklaphanta Municipality",
+                    "Bedkot Municipality",
+                    "Bhimdatta Municipality",
+                    "Dodhara Chandani Municipality",
+                    "Laljhadi Gaunpalika",
+                    "Punarbas Municipality",
+                    "Belouri Municipality",
+                    "Beldandi Gaunpalika"
+                ]
+            }
+        ],
+        "dist_start": 68
+    }
+]
