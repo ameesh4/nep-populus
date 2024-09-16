@@ -455,7 +455,150 @@ export async function getDisablityDataByMunicipality(province, district, municip
     }
 }
 
-getDisablityDataByMunicipality('koshi', "taplejung", 'mikwakhola gaunpalika').then((data) => console.log(data)).catch((error) => console.log(error));
+export async function generalMaritalData(){
+    try{
+        let response = await nepopulusFetch(process.env.MARITAL);
+
+        if (!response || !response.data){
+            throw {
+                status: 404,
+                message: 'Not Found'
+            }
+        }
+
+        let responseData = {
+            "status": 200,
+            "message": "Data for Marital Status overview listed successfully",
+            "categories": response.data.categories,
+            "total": {
+                "percentage_distribution": response.data.series[0].data,
+                "count_distribution": response.data.countSeries[0].data,
+            },
+            "male": {
+                "percentage_distribution": response.data.series[1].data,
+                "count_distribution": response.data.countSeries[1].data,
+            },
+            "female": {
+                "percentage_distribution": response.data.series[2].data,
+                "count_distribution": response.data.countSeries[2].data,
+            }
+        }
+
+        return responseData;
+    }catch(error){
+        throw error;
+    }
+}
+
+export async function getMaritalDataByProvince(province){
+    try{
+        let url = setUrlProvince(province, process.env.MARITAL);
+        let response = await nepopulusFetch(url);
+
+        if (!response || !response.data){
+            throw {
+                status: 404,
+                message: 'Not Found'
+            }
+        }
+
+        let responseData = {
+            "status": 200,
+            "message": "Data for Marital Status of " + province + " listed successfully",
+            "categories": response.data.categories,
+            "total": {
+                "percentage_distribution": response.data.series[0].data,
+                "count_distribution": response.data.countSeries[0].data,
+            },
+            "male": {
+                "percentage_distribution": response.data.series[1].data,
+                "count_distribution": response.data.countSeries[1].data,
+            },
+            "female": {
+                "percentage_distribution": response.data.series[2].data,
+                "count_distribution": response.data.countSeries[2].data,
+            }
+        }
+
+        return responseData;
+    }catch(error){
+        throw error;
+    }
+}
+
+export async function getMaritalDataByDistrict(province, district){
+    try{
+        let url = setUrlProvinceAndDistrict(province, district, process.env.MARITAL);
+        let response = await nepopulusFetch(url);
+
+        if (!response || !response.data){
+            throw {
+                status: 404,
+                message: 'Not Found'
+            }
+        }
+
+        let responseData = {
+            "status": 200,
+            "message": "Data for Marital Status of " + district + " listed successfully",
+            "categories": response.data.categories,
+            "total": {
+                "percentage_distribution": response.data.series[0].data,
+                "count_distribution": response.data.countSeries[0].data,
+            },
+            "male": {
+                "percentage_distribution": response.data.series[1].data,
+                "count_distribution": response.data.countSeries[1].data,
+            },
+            "female": {
+                "percentage_distribution": response.data.series[2].data,
+                "count_distribution": response.data.countSeries[2].data,
+            }
+        }
+
+        return responseData;
+    }catch(error){
+        throw error;
+    }
+}
+
+export async function getMaritalDataByMunicipality(province, district, municipality){
+    try{
+        let url = setUrlProvinceDistrictAndMunicipality(province, district, municipality, process.env.MARITAL);
+        let response = await nepopulusFetch(url);
+
+        if(!response || !response.data){
+            throw {
+                status: 404,
+                message: 'Not Found'
+            }
+        }
+
+        let responseData = {
+            "status": 200,
+            "message": "Data for Marital Status of " + municipality + " listed successfully",
+            "categories": response.data.categories,
+            "total": {
+                "percentage_distribution": response.data.series[0].data,
+                "count_distribution": response.data.countSeries[0].data,
+            },
+            "male": {
+                "percentage_distribution": response.data.series[1].data,
+                "count_distribution": response.data.countSeries[1].data,
+            },
+            "female": {
+                "percentage_distribution": response.data.series[2].data,
+                "count_distribution": response.data.countSeries[2].data,
+            }
+        }
+
+        return responseData;
+    }catch(error){
+        throw error;
+    }
+}
+
+getMaritalDataByMunicipality('koshi', 'taplejung', 'phaktanlung gaunpalika').then((data) => console.log(data)).catch((error) => console.log(error));
 
 
 
