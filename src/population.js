@@ -554,7 +554,7 @@ export async function getMaritalDataByDistrict(province, district){
                 "percentage_distribution": response.data.series[2].data,
                 "count_distribution": response.data.countSeries[2].data,
             }
-        }
+        };
 
         return responseData;
     }catch(error){
@@ -590,7 +590,7 @@ export async function getMaritalDataByMunicipality(province, district, municipal
                 "percentage_distribution": response.data.series[2].data,
                 "count_distribution": response.data.countSeries[2].data,
             }
-        }
+        };
 
         return responseData;
     }catch(error){
@@ -598,8 +598,162 @@ export async function getMaritalDataByMunicipality(province, district, municipal
     }
 }
 
-getMaritalDataByMunicipality('koshi', 'taplejung', 'phaktanlung gaunpalika').then((data) => console.log(data)).catch((error) => console.log(error));
+export async function generalLivingArrangementData(){
+    try{
+        let response = await nepopulusFetch(process.env.LIVING_ARRANGEMENT);
 
+        if (!response || !response.data){
+            throw {
+                status: 404,
+                message: 'Not Found'
+            }
+        }
+
+        let responseData = {
+            "status": 200,
+            "message": "Data for Living Arrangement overview listed successfully",
+            "categories": response.data.categories,
+            "total": {
+                "total": response.data.countSeries[0].total,
+                "percentage_distribution": response.data.series[0].data,
+                "count_distribution": response.data.countSeries[0].data,
+            },
+            "male": {
+                "total": response.data.countSeries[1].total,
+                "percentage_distribution": response.data.series[1].data,
+                "count_distribution": response.data.countSeries[1].data,
+            },
+            "female": {
+                "total": response.data.countSeries[2].total,
+                "percentage_distribution": response.data.series[2].data,
+                "count_distribution": response.data.countSeries[2].data,
+            }
+        };
+
+        return responseData;
+    }catch(error){
+        throw error;
+    }
+}
+
+export async function getLivingArrangementDataByProvince(province){
+    try{
+        let url = setUrlProvince(province, process.env.LIVING_ARRANGEMENT);
+        let response = await nepopulusFetch(url);
+
+        if (!response || !response.data){
+            throw {
+                status: 404,
+                message: 'Not Found'
+            }
+        }
+
+        let responseData = {
+            "status": 200,
+            "message": "Data for Living Arrangement of " + province + " listed successfully",
+            "categories": response.data.categories,
+            "total": {
+                "total": response.data.countSeries[0].total,
+                "percentage_distribution": response.data.series[0].data,
+                "count_distribution": response.data.countSeries[0].data,
+            },
+            "male": {
+                "total": response.data.countSeries[1].total,
+                "percentage_distribution": response.data.series[1].data,
+                "count_distribution": response.data.countSeries[1].data,
+            },
+            "female": {
+                "total": response.data.countSeries[2].total,
+                "percentage_distribution": response.data.series[2].data,
+                "count_distribution": response.data.countSeries[2].data,
+            }
+        };
+
+        return responseData;
+    }catch(error){
+        throw error;
+    }
+}
+
+export async function getLivingArrangementDataByDistrict(province, district){
+    try{
+        let url = setUrlProvinceAndDistrict(province, district, process.env.LIVING_ARRANGEMENT);
+        let response = await nepopulusFetch(url);
+
+        if (!response || !response.data){
+            throw {
+                status: 404,
+                message: 'Not Found'
+            }
+        }
+
+        let responseData = {
+            "status": 200,
+            "message": "Data for Living Arrangement of " + district + " listed successfully",
+            "categories": response.data.categories,
+            "total": {
+                "total": response.data.countSeries[0].total,
+                "percentage_distribution": response.data.series[0].data,
+                "count_distribution": response.data.countSeries[0].data,
+            },
+            "male": {
+                "total": response.data.countSeries[1].total,
+                "percentage_distribution": response.data.series[1].data,
+                "count_distribution": response.data.countSeries[1].data,
+            },
+            "female": {
+                "total": response.data.countSeries[2].total,
+                "percentage_distribution": response.data.series[2].data,
+                "count_distribution": response.data.countSeries[2].data,
+            }
+        };
+
+        return responseData;
+    }catch(error){
+        throw error;
+    }
+}
+
+export async function getLivingArrangementDataByMunicipality(province, district, municipality){
+    try{
+        let url = setUrlProvinceDistrictAndMunicipality(province, district, municipality, process.env.LIVING_ARRANGEMENT);
+        let response = await nepopulusFetch(url);
+
+        if (!response || !response.data){
+            throw {
+                status: 404,
+                message: 'Not Found'
+            }
+        }
+
+        let responseData = {
+            "status": 200,
+            "message": "Data for Living Arrangement of " + municipality + " listed successfully",
+            "categories": response.data.categories,
+            "total": {
+                "total": response.data.countSeries[0].total,
+                "percentage_distribution": response.data.series[0].data,
+                "count_distribution": response.data.countSeries[0].data,
+            },
+            "male": {
+                "total": response.data.countSeries[1].total,
+                "percentage_distribution": response.data.series[1].data,
+                "count_distribution": response.data.countSeries[1].data,
+            },
+            "female": {
+                "total": response.data.countSeries[2].total,
+                "percentage_distribution": response.data.series[2].data,
+                "count_distribution": response.data.countSeries[2].data,
+            }
+        };
+
+        return responseData;
+    }catch(error){
+        throw error;
+    }
+}
+
+getLivingArrangementDataByMunicipality('sudurpaschim', 'kanchanpur', 'beldandi gaunpalika').then((data) => console.log(data)).catch((error) => console.log(error));
 
 
 
